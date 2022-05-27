@@ -340,35 +340,47 @@ header{
 }
 
 .video{
-  width: 55%;
-  position: relative;
-  top: 232em;
-  margin-left: -3em;
+  width: 83%;
+  position: absolute;
+  margin-top: 20em;
+  top: 208em;
+  border-left: 20em solid #eee;
+
+
+
+
+
 
 }
+
+
   
 .about{
   font-family: 'Corporate A Light';
   color: #141414;
-  font-size: 2.5em;
-  position: relative;
-  top: 81em;
-  margin-left: 27em;
+  font-size: 1.5em;
+  position: absolute;
+  top: 184em;
   z-index: 1;
-  float: left;
+  margin-left: 32em;
+
+
+
 
 }
 
 .text-about{
   color: #141414;
-  font-size: 1.2em;
+  font-size: 1em;
   line-height: 1.5em;
-  position: relative;
-  top: 167em;
-  margin-left: 51.8em;
-  padding: 90px;
+  position: absolute;
+  top: 280em;
+  margin: 0 20em 0 20em;
+  z-index: 1;
   text-indent: 2em;
-  float: left;
+
+
+  
 
 }
 
@@ -378,36 +390,35 @@ header{
       
 .intern-1 img{
   margin: 8em;
-  width: 50%;
-  top: 370em;
+  width: 60%;
+  top: 285em;
   position: absolute;
-  border-left: 150px solid #f1f1f1;
+  margin-left: 40%;
+  border-left: 4px solid #f1f1f1;
   border-top: 4px solid #f1f1f1;
   border-bottom: 4px solid #f1f1f1;
-  border-right: 4px solid #f1f1f1;
-  margin-left: -2em;
-
+  border-right:  140px solid #f1f1f1;
 }
 
 .head_parag_1{
   font-family: 'Corporate A Light';
   color: #141414;
-  font-size: 2.5em;
+  font-size: 1.7em;
   position: absolute;
-  top: 151.8em;
-  margin-left: 28.9em;
-  float: left;
+  top: 174.5em;
+  margin: auto;
+  margin-left: 4.2em;
         
 }
 
 .parag_1{
   color: #141414;
-  font-size: 1.2em;
+  font-size: 1em;
   line-height: 1.5em;
   position: absolute;
-  top: 317.4em;
-  margin-left: 53.8em;
-  padding: 120px;
+  top: 304em;
+  margin-left: 7em;
+  margin-right: 65%;
   text-indent: 2em;
   float: left;
 
@@ -415,36 +426,38 @@ header{
 
 .intern-2 img{
   margin: 8em;
-  width: 50%;
-  top: 412em;
+  width: 60%;
+  top: 330em;
   position: absolute;
-  margin-left: 50.4em;
-  border-left: 4px solid #f1f1f1;
+  margin-left: 0;
+  border-right: 4px solid #f1f1f1;
   border-top: 4px solid #f1f1f1;
   border-bottom: 4px solid #f1f1f1;
-  border-right:  140px solid #f1f1f1;
+  border-left:  140px solid #f1f1f1;
 
 }
 
 .head_parag_2{
   font-family: 'Corporate A Light';
   color: #141414;
-  font-size: 2.5em;
+  font-size: 1.7em;
   position: absolute;
-  top: 168em;
-  margin-left: 3.1em;
+  top: 200.5em;
+  margin: auto;
   float: left;
+  margin-left: 46.2em;
+
      
 }
 
 .parag_2{
   color: #141414;
-  font-size: 1.2em;
+  font-size: 1em;
   line-height: 1.5em;
   position: absolute;
-  top: 350.5em;
-  padding: 120px;
-  margin-right: 55em;
+  top: 346.5em;
+  margin-right: 7em;
+  margin-left: 66%;
   text-indent: 2em;
   float: left;
 
@@ -452,74 +465,75 @@ header{
 
 .intern-3 img{
   margin: 8em;
-  width: 50%;
-  margin-left: -2em;
-  top: 454em;
+  width: 60%;
+  top: 375em;
   position: absolute;
-  border-left: 150px solid #f1f1f1;
+  margin-left: 40%;
+  border-left: 4px solid #f1f1f1;
   border-top: 4px solid #f1f1f1;
   border-bottom: 4px solid #f1f1f1;
-  border-right: 4px solid #f1f1f1;
+  border-right:  140px solid #f1f1f1;
 
 }
 
 .head_parag_3{
   font-family: 'Corporate A Light';
   color: #141414;
-  font-size: 2.5em;
+  font-size: 1.7em;
   position: absolute;
-  top: 184.6em;
-  margin-left: 29em;
-  float: left;
+  top: 228em;
+  margin: auto;
+  margin-left: 4.2em;
+        
         
 }
 
 .parag_3{
   color: #141414;
-  font-size: 1.2em;
+  font-size: 1em;
   line-height: 1.5em;
   position: absolute;
-  top: 385em;
-  margin-left: 54em;
-  padding: 120px;
+  top: 393em;
+  margin-left: 7em;
+  margin-right: 65%;
   text-indent: 2em;
   float: left;
-
 }
 
       
 .intern-4 img{
   margin: 8em;
-  width: 50%;
-  top: 496em;
+  width: 60%;
+  top: 420em;
   position: absolute;
-  margin-left: 50.4em;
-  border-left: 4px solid #f1f1f1;
+  margin-left: 0;
+  border-right: 4px solid #f1f1f1;
   border-top: 4px solid #f1f1f1;
   border-bottom: 4px solid #f1f1f1;
-  border-right:  140px solid #f1f1f1;
+  border-left:  140px solid #f1f1f1;
       
 }
 
 .head_parag_4{
   font-family: 'Corporate A Light';
   color: #141414;
-  font-size: 2.5em;
+  font-size: 1.7em;
   position: absolute;
-  top: 201.4em;
-  margin-left: 3.1em;
+  top: 254em;
+  margin: auto;
   float: left;
+  margin-left: 46.2em;
         
 }
 
 .parag_4{
   color: #141414;
-  font-size: 1.2em;
+  font-size: 1em;
   line-height: 1.5em;
   position: absolute;
-  top: 420em;
-  padding: 120px;
-  margin-right: 55em;
+  top: 437em;
+  margin-right: 7em;
+  margin-left: 66%;
   text-indent: 2em;
   float: left;
      
@@ -1163,6 +1177,9 @@ header{
 
 }
 
-@media only screen and (min-width: 1200px){
+@media only screen and (min-width: 1200px) and (max-width: 1800px){
   
+  body{
+    background-color: #13ffeb;
+  }
 }
