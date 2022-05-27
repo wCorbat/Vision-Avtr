@@ -207,7 +207,8 @@ header{
   margin: auto;
   left: 74%;
   padding-top: 2em;
-
+  cursor: pointer;
+  z-index: 1;
 
 }
 
@@ -235,6 +236,7 @@ header{
   cursor: pointer;
   transition: .5s;
   width: 3em;
+
   
 }
 
@@ -259,6 +261,11 @@ header{
 }
 
 #radio4:checked ~ .navigation-auto .auto-btn4{
+  background-color: rgba(255, 255, 255, 0.6);
+
+}
+
+#radio5:checked ~ .navigation-auto .auto-btn5{
   background-color: rgba(255, 255, 255, 0.6);
 
 }
