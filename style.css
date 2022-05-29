@@ -331,7 +331,7 @@ header{
 
 .background-white{
   width: 100%;
-  height: 530em;
+  height: 550em;
   background-color: #ffffff;
   position: absolute;
   z-index: -1;
@@ -523,6 +523,7 @@ header{
   margin: auto;
   float: left;
   margin-left: 46.2em;
+
         
 }
 
@@ -545,17 +546,17 @@ header{
   height: 230em;
   background-color: #000000;
   position: absolute;
-  top: 560em;
+  top: 478em;
 
 }
    
 .extern-1 img{
   margin: 8em;
   width: 50%;
-  top: 517.4em;
+  top: 490em;
   position: relative;
   z-index: 1;
-  margin-left: 51em;
+  margin-left: 60em;
   border-left: 4px solid #030303;
   border-top: 4px solid  #030303;
   border-bottom: 4px solid  #030303;
@@ -565,8 +566,8 @@ header{
 
 .flaps{
   margin: 8em;
-  width: 32%;
-  top: 484em;
+  width: 40%;
+  top: 455em;
   margin-left: -1em;
   position: relative;
   z-index: 1;
@@ -580,12 +581,12 @@ header{
 .head_parag_5{
   font-family: 'Corporate A Light';
   color: #ffffff;
-  font-size: 2.5em;
+  font-size: 1.7em;
   position: absolute;
-  top: 227em;
-  margin-left: 3em;
+  top: 292em;
+  margin-left: 4em;
   border-bottom: 2px solid #494949;
-  padding-right: 10em;
+  padding-right: 24em;
   z-index: 1;
   float: left;
         
@@ -593,12 +594,12 @@ header{
 
 .parag_5{
   color: #ffffff;
-  font-size: 1.2em;
+  font-size: 1em;
   line-height: 1.5em;
   position: absolute;
-  top: 474em;
-  padding: 120px;
-  margin-right: 55em;
+  top: 502.5em;
+  margin-left: 6.5em;
+  margin-right: 55%;
   text-indent: 2em;
   float: left;
 
@@ -606,8 +607,8 @@ header{
 
 .extern-2 img{
   margin: 8em;
-  width: 50%;
-  top: 490em;
+  width: 60%;
+  top: 470em;
   margin-left: -1em;
   position: relative;
   z-index: 1;
@@ -621,25 +622,27 @@ header{
 .head_parag_6{
   font-family: 'Corporate A Light';
   color: #ffffff;
-  font-size: 2.5em;
+  font-size: 1.7em;
   position: absolute;
-  top: 259.6em;
-  margin-left: 23.4em;
+  top: 337em;
+  margin-left: 32em;
   border-bottom: 2px solid #494949;
-  padding-left: 6em;
+  padding-left: 22em;
   z-index: 1;
   float: left;
+
         
 }
 
 .parag_6{
   color: #ffffff;
-  font-size: 1.2em;
+  font-size: 1em;
   line-height: 1.5em;
   position: absolute;
-  top: 542em;
-  padding: 120px;
-  margin-left: 55em;
+  top: 579em;
+  margin-left: 50em;
+  margin-right: 6%;
+  margin-left: 64%;
   text-indent: 2em;
   float: left;
       
@@ -648,8 +651,8 @@ header{
 .extern-3 img{
   margin: 8em;
   width: 50%;
-  top: 492.3em;
-  margin-left: 51em;
+  top: 475em;
+  margin-left: 60em;
   position: relative;
   z-index: 1;
   border-left: 4px solid #030303;
@@ -662,27 +665,28 @@ header{
 .head_parag_7{
   font-family: 'Corporate A Light';
   color: #ffffff;
-  font-size: 2.5em;
+  font-size: 1.7em;
   position: absolute;
-  top: 276.2em;
+  top: 368em;
+  margin-left: 4em;
   border-bottom: 2px solid #494949;
-  padding-right: 7.5em;
-  margin-left: 3em;
+  padding-right: 24em;
   z-index: 1;
   float: left;
+
         
 }
 
 .parag_7{
   color: #ffffff;
-  font-size: 1.2em;
+  font-size: 1em;
   line-height: 1.5em;
   position: absolute;
-  top: 579em;
-  padding: 120px;
-  margin-right: 55em;
+  top: 632em;
+  margin-left: 6.5em;
+  margin-right: 55%;
   text-indent: 2em;
-  float: left;    
+  float: left; 
 
 }
 
@@ -696,7 +700,7 @@ header{
 
 .sketchs img{
   position: relative;
-  top: 500em;
+  top: 424em;
   width: 100%;
   padding: 1em;
   background-color: #e0e0e0;
@@ -714,20 +718,20 @@ header{
 }
 
 .avatar_logo{
-  width: 22.5em;
+  width: 15em;
   position: absolute;
   z-index: 1;
-  top: 819.4em;
-  margin-left: 53em;
+  top: 855em;
+  margin-left: 55.5em;
 
       
 }
 
 .mercedes_logo{
-  width: 10em;
+  width: 7em;
   position: absolute;
-  top: 820em;
-  margin-left: 41.6em;
+  top: 855.4em;
+  margin-left: 47.5em;
   border-right: 4px solid #ccc;
 
       
@@ -811,7 +815,7 @@ footer li:hover{
 
 footer{
   position: absolute;
-  top: 856em;
+  top: 892em;
   color: #ffffff;
   float: left;
 
@@ -828,13 +832,13 @@ hr{
 .rights{
   position: absolute;
   margin-left: 53.4em;
-  top: -3em;
+  top: -2em;
   color: #ccc;
 
 }
 
 .logo_web-c{
-  width: 9em;
+  width: 12em;
   position:absolute;
   margin-left: 80em;
   top: -2.8em;
@@ -1182,4 +1186,392 @@ header{
   body{
     background-color: #13ffeb;
   }
+
+  .typing-intro-animation-logo{
+    width: 7em;
+
+}
+
+@keyframes intro{
+  0%{
+  width: 7em;
+
+  }
+  25%{
+  width: 7.5em;
+
+  }
+  50%{
+  width: 7em;
+
+  }
+  75%{
+  width: 7em;
+
+  }
+  100%{
+  width: 7em;
+ 
+  }
+}
+
+.typing-animation{
+  margin-left: 5em;
+  top: -.4em;
+
+}
+
+  .slogan{
+  font-size: 3em;
+  top: 19em;
+  left: 17.5%;
+
+}
+
+
+.slides{
+  margin-top: 68em;
+
+}
+
+.navigation-auto, .navigation-manual{
+  left: 62%;
+  padding-top: 2em;
+
+
+}
+
+.container {
+  top: 120em;
+
+}
+
+
+.container-white{
+  top: -120em;
+        
+}
+
+.video{
+  border-left: 13em solid #eee;
+
+}
+  
+.intern-1 img{
+  margin-top: -10em;
+  margin-left: 40%;
+  border-right:  90px solid #f1f1f1;
+
+}
+
+.head_parag_1{
+  font-size: 1.5em;
+  top: 185em;
+        
+}
+
+.parag_1{
+  font-size: .8em;
+  top: 354em;
+  margin-left: 8em;
+
+
+}
+
+.intern-2 img{
+  top: 300em;
+  border-left:  90px solid #f1f1f1;
+
+}
+
+.head_parag_2{
+  font-size: 1.5em;
+  top: 206.5em;
+  margin-left: 35.2em;
+
+     
+}
+
+.parag_2{
+  font-size: .8em;
+  top: 392em;
+
+
+}
+
+.intern-3 img{
+  margin-top: -33em;
+  margin-left: 40%;
+  border-right:  90px solid #f1f1f1;
+
+}
+
+.head_parag_3{
+  font-size: 1.5em;
+  top: 229em;
+        
+}
+
+.parag_3{
+  font-size: .8em;
+  top: 434.5em;
+  margin-left: 8em;
+}
+
+      
+.intern-4 img{
+  top: 368em;
+  border-left:  90px solid #f1f1f1;
+      
+}
+
+.head_parag_4{
+  font-size: 1.5em;
+  top: 252em;
+  margin-left: 35.2em;
+
+        
+}
+
+.parag_4{
+  font-size: .8em;
+  top: 477.8em;
+     
+}
+
+
+.container-black{
+  top: 415em;
+  height: 162em;
+
+}
+   
+.extern-1 img{
+  top: 425em;
+  margin-left: 40em;
+
+}
+
+.flaps{
+  top: 405em;
+  margin-left: -1em;
+  width: 40%;
+
+     
+}
+
+.head_parag_5{
+  font-size: 1.5em;
+  top: 285em;
+
+        
+}
+
+.parag_5{
+  font-size: .8em;
+  top: 540em;
+  margin-left: 7.6em;
+
+}
+
+.extern-2 img{
+  width: 60%;
+  top: 415em;
+  margin-left: -1em;
+      
+}
+
+.head_parag_6{
+  margin-left: 25em;
+  padding-left: 12em;
+  font-size: 1.5em;
+  top: 323em;
+
+        
+}
+
+.parag_6{
+  font-size: .8em;
+  top: 611em;
+  margin-left: 65em;
+      
+}
+
+.extern-3 img{
+  top: 422em;
+  margin-left: 40em;
+
+}
+
+.head_parag_7{
+  font-size: 1.5em;
+  top: 350em;
+  padding-right: 4em;
+  margin-left: 3em;
+
+
+        
+}
+
+.parag_7{
+  font-size: .8em;
+  top: 662em;
+  margin-left: 6em;
+
+}
+
+.sketchs{
+  display:flex;
+  width: 60%;
+  margin-left: .2em;
+
+
+}
+
+.sketchs img{
+  position: relative;
+  top: 424em;
+  width: 100%;
+  padding: 1em;
+  background-color: #e0e0e0;
+  display:flex;
+  margin-left: 22em;
+
+          
+}
+
+.sketchs img:hover{
+  transform: scale(1.5);
+  transition: 1s;
+  z-index: 1;
+      
+}
+
+.avatar_logo{
+  width: 15em;
+  position: absolute;
+  z-index: 1;
+  top: 855em;
+  margin-left: 55.5em;
+
+      
+}
+
+.mercedes_logo{
+  width: 7em;
+  position: absolute;
+  top: 855.4em;
+  margin-left: 47.5em;
+  border-right: 4px solid #ccc;
+
+      
+}
+
+.logo_footer_mercedes{
+  margin-left: 15em;
+  font-family: 'Corporate A Light';
+  font-size: 1.6em;
+  position: absolute;
+  top: -9em;
+  float: left;
+      
+}
+
+.footer_block_1{
+  position: absolute;
+  color: #ccc;
+  font-family: sans-serif;
+  margin-left: 42em;
+  line-height: 2em;
+  top: -17.8em;
+  float: left;
+      
+}
+
+.footer_block_2{
+  position: absolute;
+  color: #ccc;
+  font-family: sans-serif;
+  margin-left: 55.3em;
+  line-height: 2em;
+  top: -17.8em;
+  float: left;
+      
+}
+
+
+.footer_block_1, .footer_block_2, li, a{
+  text-decoration: none;
+  display: block;
+  color: #ccc;
+  
+      
+}
+
+.social{
+  color: #ffffff;
+  display: flex;
+  position: relative;
+  width: 20em;
+  top: -17em;
+  margin-left: 70em;
+        
+}
+
+.social div{
+  padding: .3em;
+  font-size: 2em;
+
+}
+
+.social a{
+  color: #ccc;
+}
+
+.social a:hover{
+  transform: scale(1.1);
+  color: #ffffff;
+  transition: .4s;
+
+
+}
+
+footer li:hover{
+  transform: scale(1.1);
+  color: #ffffff;
+  transition: .4s;
+
+}
+
+footer{
+  position: absolute;
+  top: 892em;
+  color: #ffffff;
+  float: left;
+
+}
+
+hr{
+  width: 80em;
+  position: absolute;
+  margin-left: -36em;
+  top: 13.2em;
+
+}
+
+.rights{
+  position: absolute;
+  margin-left: 53.4em;
+  top: -2em;
+  color: #ccc;
+
+}
+
+.logo_web-c{
+  width: 12em;
+  position:absolute;
+  margin-left: 80em;
+  top: -2.8em;
+
+}
 }
