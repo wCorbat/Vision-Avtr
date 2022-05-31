@@ -771,7 +771,7 @@ hr{
 
 }
 
-@media only screen and (min-width: 360px) and (max-width: 374px){
+@media only screen and (min-width: 360px) and (max-width: 374px){  /* Galaxy S20, S21 ultra, S22, S22+, S22 Ultra, Xiaomi Mi 11, 12, Huawei P30 pro*/
 
 header{
   height: 3.5em;
@@ -1128,7 +1128,7 @@ hr{
 
 }
 
-@media only screen and (min-width: 375px) and (max-width: 389px){
+@media only screen and (min-width: 375px) and (max-width: 389px){ /* Iphone X, 11 PRO e 13 mini */
 
 header{
   height: 3.5em;
@@ -1484,7 +1484,7 @@ hr{
 
 }
 
-@media only screen and (min-width: 390px) and (max-width: 400px){
+@media only screen and (min-width: 390px) and (max-width: 400px){ /* Iphone 12, 12 pro, 13, 13 pro */
 
 header{
   height: 3.5em;
@@ -1839,7 +1839,7 @@ hr{
 
 }
 
-@media only screen and (min-width: 412px) and (max-width: 428px){
+@media only screen and (min-width: 412px) and (max-width: 428px){ /* Galaxy Note 20 ultra, Iphone XR, 11, 11 pro max, 12 pro max, 13 pro max */
 
 header{
   height: 3.5em;
@@ -2195,7 +2195,7 @@ hr{
 
 }
 
-@media only screen and (min-width: 500px) and (max-width: 599px){
+@media only screen and (min-width: 500px) and (max-width: 599px){ /* otimização de janela navegador */
 
 header{
   height: 3.5em;
@@ -2551,7 +2551,7 @@ hr{
 
 }
 
-@media only screen and (min-width: 600px) and (max-width: 767px){
+@media only screen and (min-width: 600px) and (max-width: 767px){ /* otimização de janela navegador */
 
 header{
   height: 5em;
@@ -2911,7 +2911,7 @@ hr{
 
 }
 
-@media only screen and (min-width: 768px) and (max-width: 834px){
+@media only screen and (min-width: 768px) and (max-width: 834px){ /* Ipad mini, Air 4, Pro 11, Galaxy Tab S7 */
 
 header{
   height: 5em;
@@ -3273,7 +3273,7 @@ hr{
 
 }
 
-@media only screen and (min-width: 835px) and (max-width: 992px){
+@media only screen and (min-width: 835px) and (max-width: 992px){ /* Galaxy Fold 2 */
 
 header{
   height: 5em;
@@ -3635,7 +3635,7 @@ hr{
 
 }
 
-@media only screen and (min-width: 993px) and (max-width: 1199px){
+@media only screen and (min-width: 993px) and (max-width: 1199px){ /* Otimização de janela navegador */
 
 header{
   height: 5em;
@@ -3996,7 +3996,7 @@ hr{
 
 }
 
-@media only screen and (min-width: 1200px) and (max-width: 1399px){
+@media only screen and (min-width: 1200px) and (max-width: 1399px){ /* Macbook Air, Notebooks 13' */
   
 .typing-intro-animation-logo{
   width: 7em;
@@ -4255,7 +4255,7 @@ footer{
 }
 }
 
-@media only screen and (min-width: 1399px) and (max-width: 1728px){
+@media only screen and (min-width: 1399px) and (max-width: 1728px){ /* Macbook 16 Pro, Notebooks 15' e 16' */
 
 .slogan{
   left: 19%;
@@ -4372,7 +4372,7 @@ footer{
 
 }
 
-@media only screen and (min-width: 1980px) and (max-width: 2048px){
+@media only screen and (min-width: 1980px) and (max-width: 2048px){ /* Desktop 27', iMac 24', Smartv */
   
 .typing-intro-animation-logo{
   top: 1.7em;
