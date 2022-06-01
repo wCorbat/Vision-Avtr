@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 
+
 }
 
 .tudo{
@@ -744,6 +745,7 @@ footer{
   top: 892em;
   color: #ffffff;
   float: left;
+  
 
 }
 
@@ -752,6 +754,7 @@ hr{
   position: absolute;
   margin-left: -36em;
   top: 13.2em;
+  overflow-x: hidden;
 
 }
 
@@ -3635,7 +3638,7 @@ hr{
 
 }
 
-@media only screen and (min-width: 993px) and (max-width: 1199px){ /* Otimização de janela navegador */
+@media only screen and (min-width: 993px) and (max-width: 1199px){ /* Ipad Pro */
 
 header{
   height: 5em;
