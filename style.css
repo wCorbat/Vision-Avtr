@@ -1113,7 +1113,9 @@ footer{
 
 hr{
   top: 18em;
-
+  width: 22em;
+  margin-left: -12em;
+  
 }
 
 .rights{
@@ -1469,7 +1471,9 @@ footer{
 
 hr{
   top: 18em;
-
+  width: 22em;
+  margin-left: -11em;
+  
 }
 
 .rights{
@@ -1824,7 +1828,9 @@ footer{
 
 hr{
   top: 18em;
-
+  width: 22em;
+  margin-left: -11em;
+  
 }
 
 .rights{
@@ -2180,7 +2186,9 @@ footer{
 
 hr{
   top: 18em;
-
+  width: 25em;
+  margin-left: -12em;
+  
 }
 
 .rights{
@@ -2536,7 +2544,9 @@ footer{
 
 hr{
   top: 18em;
-
+  width: 30em;
+  margin-left: -9em;
+  
 }
 
 .rights{
@@ -2896,6 +2906,8 @@ footer{
 
 hr{
   top: 18em;
+  width: 30em;
+  margin-left: -23em;
 
 }
 
@@ -3258,7 +3270,9 @@ footer{
 
 hr{
   top: 19em;
-
+  width: 35em;
+  margin-left: -23.2em;
+    
 }
 
 .rights{
@@ -3573,6 +3587,12 @@ footer{
   margin-left: -25em;
   padding-bottom: 12em;
     
+}
+
+hr{
+  width: 40em;
+  margin-left: -24.1em;
+  
 }
 
 .logo_footer_mercedes{
@@ -3981,7 +4001,9 @@ padding-bottom: 12em;
 
 hr{
   top: 19em;
-
+  width: 35em;
+  margin-left: -23.2em;
+    
 }
 
 .rights{
@@ -4249,6 +4271,12 @@ hr{
 footer{
   top: 650em;
   margin-left: -19.4em;
+
+}
+
+hr{
+  width: 70em;
+  margin-left: -31em;
 
 }
 
